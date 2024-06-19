@@ -1,0 +1,651 @@
+/*p {
+	color: rgb (255, 0, 0, 0.527);
+}
+p {
+	color: orange;
+}
+h1 {
+    color: green;
+}
+h2 {
+    color: rgb(0, 0, 0);
+}
+h3 {
+    color: red;
+}
+p {
+	color: rgb(9, 183, 206);
+}
+p {
+	color: #000000;
+}
+p {
+    width: 300px;
+}
+k {
+	text-align: right;
+}
+p {
+	text-align: center;
+}
+th {
+	text-align: left;
+}
+
+table {
+	width: 400px;
+}
+p {
+	text-align: justify;
+	width: 300px;
+
+
+
+
+
+
+}
+td {
+	font-weight: bold;
+
+    text-align: center;
+
+}   
+ th {
+    font-weight: normal;
+    
+     text-align: center;
+    
+    
+}   
+ h2 {
+     font-style: italic;
+     
+    }
+    
+    h1 {
+        font-size: 50px;   
+        text-align: center;
+
+    }             
+    h2 {
+        font-size: 40px;   
+        text-align: center;
+        font-weight: bold;
+}  
+
+
+Arial {
+    font-family: Arial;
+}
+     
+p {
+    font-family: "Comic Sans MS";
+}
+
+p {
+    font-size: 30px;
+    line-height: 15px;
+    text-align: justify;
+    width: 400px;
+}
+
+p {
+	font: 13px/20px Times New Roman;
+}
+p {
+	font: bold 300px/40px red Arial;
+}
+
+p {
+	font: bold italic 40px/50px/60px Arial;
+
+}
+#красная_строка 
+p {
+	text-indent: 50px;
+	text-align: justify;
+	width: 400px;
+}
+#подчеркниж
+p {
+	text-decoration: underline;
+}
+#верхподчерк
+p {
+	text-decoration: overline;
+}
+
+/* 53 */
+ul li {
+	color: red;
+	}
+	p li {
+	color: green;
+	}
+
+	p b i {
+	color: red; 
+	}
+/* 54 */
+
+i b {
+        color: red;
+         }
+/* 55 */
+.odd {
+        color: red;
+        }
+         .eve {
+        color: green;
+        }
+        
+        .eee {
+        color: red;
+        }
+
+/* 56 */
+.xxx {
+    font-size: 30px;
+    }
+
+/* 57 */
+.block1 {
+    color: red;
+    }
+    .block2 {
+        color: green;
+    }
+    .block3 {
+        color: blue;
+    }
+    
+    .bloc  {
+        color: red;
+    }
+    .ama {
+        color: green;
+    }
+
+
+/* 58 №1*/
+
+    .eee {
+        font-size: 20px;
+    }
+    .zzz {
+        font-size: 30px;
+    }
+    .eee, .zzz {
+        line-height: 1.5;
+        font-family: Arial;
+    }
+/* 58 №2 */
+    .eee {
+        font-size: 20px;
+    }
+    .zzz {
+        font-size: 30px;
+    }
+    .ggg {
+        font-size: 35px;
+    }
+    .eee, .zzz, .ggg {
+        text-align: center;
+        font-family: Arial;
+    }
+
+/* 59 */
+h2.header {
+	font-size: 40px;
+}
+h3.header {
+	font-size: 30px;
+}
+
+/* 60 */
+.eee i {
+	color: red;
+}
+/*61*/
+.eee .bbb {
+	color: red;
+}
+.eee h2 {
+	color: red;
+}
+.eee h2.bbb {
+	color: red;
+}
+.eee h3.bbb {
+	color: red;
+}
+.eee p.bbb {
+	color: red;
+}
+.eee .bbb .kkk {
+	color: red;
+}
+/*62*/
+p.bbb {
+	color: red;
+}
+
+p .bbb {
+	color: red;
+}
+
+.eee p.bbb {
+	color: red;
+}
+
+.eee p .bbb {
+	color: red;
+}
+/*63 №1*/
+
+.success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
+
+/*63 №2*/
+.big {
+	font-size: 40px;
+}
+.cow {
+	color: grey;
+}
+.bl {
+	text-decoration: underline;
+}
+/*64*/
+
+#elem1 {
+	color: red;
+}
+#elem2 {
+	color: green;
+}
+#elem3 {
+	color: blue;
+}
+/*65*/ 
+
+#blck {
+	background-color: lightblue;
+	padding: 10px;
+	margin-bottom: 20px;
+  }
+  
+.text {
+	background-color: lightgreen;
+	padding: 10px;
+	margin-bottom: 20px;
+  }
+  
+  /*66*/
+
+#elem h2 {
+	color:darkslategrey;
+  }
+
+#elem .text {
+	color:brown;
+  }
+
+#elem p.text {
+	color:bisque;
+}
+
+#elem li.text {
+	color:cadetblue;
+}
+
+/*67*/
+
+.eee.zzz.ccc {
+	color:chocolate;
+}
+
+/*68*/
+
+.bbb.zzz {
+	color: red;
+}
+
+h2.bbb.zzz {
+	color: red;
+}
+
+#elem.bbb {
+	color: red;
+}
+
+#elem.bbb.zzz {
+	color: red;
+}
+
+h2#elem.bbb {
+	color: red;
+}
+
+/*69*/
+
+h2.zzz {
+	color: red;
+}
+
+h2 .zzz {
+	color: red;
+}
+
+.bbb.zzz {
+	color: red;
+}
+
+.bbb .zzz {
+	color: red;
+}
+
+.bbb.zzz.xxx {
+	color: red;
+}
+
+.bbb .zzz.xxx {
+	color: red;
+}
+
+.bbb.zzz .xxx {
+	color: red;
+}
+
+.bbb .zzz .xxx {
+	color: red;
+}
+
+#elem.bbb {
+	color: red;
+}
+
+#elem .bbb {
+	color: red;
+}
+/*70 упрощение кода*/
+
+#block h1, #block h2 {
+	text-align: center;
+}
+
+#block h1, #block h2 {
+	text-align: center;
+	font-size: 30px;
+  }
+
+
+/*71 №1*/
+  #block h1, #block h2, #block h3 {
+	text-align: center;
+	font-size: 16px;
+}
+#block h2 {
+	color: blue;
+}
+#block h3 {
+	color: red;
+}
+
+/*71 №2*/
+#block h1.eee, #block h2.zzz {
+	text-align: center;
+}
+	#block h1.eee {
+	font-size: 30px;
+}
+#block h2.zzz {
+	font-size: 20px;
+}
+
+/*71 №3*/
+.xxx .kkk, .eee h2.zzz, #eee h2 {
+	text-align: center;
+}
+
+/*71 №4*/
+.eee h2.zzz, .xxx {
+	text-align: center;
+}
+
+/*72*/
+
+div p {
+	color:aquamarine;
+  }
+
+div h2 {
+	color:blueviolet;
+  }
+  
+#block p {
+	color:blue;
+  }
+
+  #block h2 {
+	color:chartreuse;
+  }
+
+.bbb {
+	color:rgb(216, 117, 36)
+}
+
+#block .bbb {
+	color:crimson;
+}
+
+.bbb p {
+	color:bisque;
+}
+
+.bbb h2 {
+	color:azure;
+}
+
+#block .bbb p {
+	color:coral;
+}
+
+.bbb, .xxx {
+	color:cadetblue;
+}
+
+.bbb p, .xxx h2 {
+	color: gold;
+}
+
+#block p.bbb, #block p.xxx {
+	color:darkslateblue;
+}
+
+.fff {
+	color:forestgreen;
+}
+
+.fff p {
+	color:deeppink;
+}
+
+#block p.fff {
+	color:darkolivegreen;
+}
+
+.fff .bbb {
+	color:indigo;
+}
+
+.fff h2.bbb {
+	color:aliceblue;
+}
+
+/* в 73 абзацам задается 20, а потом 30 следовательно ворая 
+запись переопределит первую и абзацы станут 30px*/
+
+ /*74 - h2 размер 20 пикселей, стиль италик,цвет красный*/
+
+  /*77 */
+  #elem + li {
+	color:aquamarine;
+  }
+
+.elem + li {
+	color:brown;
+  }
+/*78*/
+  #elem ~ li {
+	color:cornflowerblue;
+  }
+/*79*/
+  main > * > p {
+	color:coral;
+  }
+
+  /*80
+
+  title {
+	color:chartreuse;
+  }
+
+p, title {
+	color:cyanp;
+}
+
+p, title="hello" {
+	color:red;
+  }
+
+  a, href="http://" {
+	color:blue;
+  }
+
+  ahref=".html" {
+	color:yellow;
+  }
+
+  p, title="hello" {
+	color:violet;
+  }
+
+  p, class="top-" {
+	color:darkgoldenrod
+  }
+
+  */
+
+/*82
+
+a:link {
+	color:blue;
+}
+a:hover.link {
+	color:red;
+	text-decoration: none;
+}
+a:active {
+	color:black;
+}
+a:visited {
+	color:green;
+	}
+	
+84
+
+a:link, a:active, a:visited{
+	color:blue;
+	text-decoration: none;
+}
+a:hover.link {
+	color:red;
+}
+*/
+
+/*85
+
+a {
+	color: red;
+}
+a:hover {
+	text-decoration: none;
+}
+	
+
+/*86*/
+
+a.zzz {
+	color: red;
+}
+a.zzz:hover {
+	text-decoration: none;
+}
+
+#block a.zzz {
+	color: red;
+}
+#block a.zzz:hover {
+	text-decoration: none;
+}
+
+.ammeac a.zzz {
+	color: red;
+}
+.ammeac a.zzz:hover {
+	text-decoration: none;
+}
+
+/*88*/
+
+p:first-of-type {
+	color: red;
+}
+
+h2:nth-of-type(odd) {
+	color: red;
+}
+
+div {
+	border: 1px dashed black;
+	padding: 15px;
+	margin-bottom: 10px;
+}
+h2:only-of-type {
+	color: red;
+}
+
+/*89*/
+
+.elem {
+	color:blueviolet;
+}
+
+#elem {
+	color:chocolate;
+}
+
+.elem {
+	color:hotpink;
+}
+
+
+#elem {
+	width: 300px;
+	height: 100px;
+	color: white;
+	background-color: orange; 
+}
+
